@@ -1,4 +1,3 @@
-<h1 align="center">Hi 👋, I'm front web developer rian mandala putra</h1>
 <h3 align="center">I am very interested in web technology, and collaborate on small and large projects, so if there are friends who want collaboration please.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rian-mandala" alt="rian-mandala" /> </p>
