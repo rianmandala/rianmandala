@@ -1,25 +1,31 @@
 {
   "files": {
-    "main.css": "/rianmandala/static/css/main.e1e69e84.chunk.css",
-    "main.js": "/rianmandala/static/js/main.4c9f5bcb.chunk.js",
-    "main.js.map": "/rianmandala/static/js/main.4c9f5bcb.chunk.js.map",
-    "runtime-main.js": "/rianmandala/static/js/runtime-main.c372758f.js",
-    "runtime-main.js.map": "/rianmandala/static/js/runtime-main.c372758f.js.map",
-    "static/js/2.5995ec64.chunk.js": "/rianmandala/static/js/2.5995ec64.chunk.js",
-    "static/js/2.5995ec64.chunk.js.map": "/rianmandala/static/js/2.5995ec64.chunk.js.map",
-    "static/js/3.94135924.chunk.js": "/rianmandala/static/js/3.94135924.chunk.js",
-    "static/js/3.94135924.chunk.js.map": "/rianmandala/static/js/3.94135924.chunk.js.map",
+    "main.css": "/rianmandala/static/css/main.9e8bb24d.chunk.css",
+    "main.js": "/rianmandala/static/js/main.9fd69bf2.chunk.js",
+    "main.js.map": "/rianmandala/static/js/main.9fd69bf2.chunk.js.map",
+    "runtime-main.js": "/rianmandala/static/js/runtime-main.50d9da50.js",
+    "runtime-main.js.map": "/rianmandala/static/js/runtime-main.50d9da50.js.map",
+    "static/js/2.4fe8988a.chunk.js": "/rianmandala/static/js/2.4fe8988a.chunk.js",
+    "static/js/2.4fe8988a.chunk.js.map": "/rianmandala/static/js/2.4fe8988a.chunk.js.map",
+    "static/js/3.bbb454fc.chunk.js": "/rianmandala/static/js/3.bbb454fc.chunk.js",
+    "static/js/3.bbb454fc.chunk.js.map": "/rianmandala/static/js/3.bbb454fc.chunk.js.map",
     "index.html": "/rianmandala/index.html",
-    "static/css/main.e1e69e84.chunk.css.map": "/rianmandala/static/css/main.e1e69e84.chunk.css.map",
-    "static/js/2.5995ec64.chunk.js.LICENSE.txt": "/rianmandala/static/js/2.5995ec64.chunk.js.LICENSE.txt",
+    "static/css/main.9e8bb24d.chunk.css.map": "/rianmandala/static/css/main.9e8bb24d.chunk.css.map",
+    "static/js/2.4fe8988a.chunk.js.LICENSE.txt": "/rianmandala/static/js/2.4fe8988a.chunk.js.LICENSE.txt",
     "static/media/avatar_design.8007f525.svg": "/rianmandala/static/media/avatar_design.8007f525.svg",
     "static/media/bg_header.16d20536.png": "/rianmandala/static/media/bg_header.16d20536.png",
-    "static/media/rian_pp.e5aa0518.jpg": "/rianmandala/static/media/rian_pp.e5aa0518.jpg"
+    "static/media/bottom_gap_gray.473240e1.svg": "/rianmandala/static/media/bottom_gap_gray.473240e1.svg",
+    "static/media/bottom_gap_white.64ef8b3b.svg": "/rianmandala/static/media/bottom_gap_white.64ef8b3b.svg",
+    "static/media/bottom_gat_deepblue.b3a17c2f.svg": "/rianmandala/static/media/bottom_gat_deepblue.b3a17c2f.svg",
+    "static/media/la_learn.fe0c9d9d.png": "/rianmandala/static/media/la_learn.fe0c9d9d.png",
+    "static/media/pokemon_go.07af0787.png": "/rianmandala/static/media/pokemon_go.07af0787.png",
+    "static/media/rian_pp.e5aa0518.jpg": "/rianmandala/static/media/rian_pp.e5aa0518.jpg",
+    "static/media/sky_chat.26d78c00.png": "/rianmandala/static/media/sky_chat.26d78c00.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.c372758f.js",
-    "static/js/2.5995ec64.chunk.js",
-    "static/css/main.e1e69e84.chunk.css",
-    "static/js/main.4c9f5bcb.chunk.js"
+    "static/js/runtime-main.50d9da50.js",
+    "static/js/2.4fe8988a.chunk.js",
+    "static/css/main.9e8bb24d.chunk.css",
+    "static/js/main.9fd69bf2.chunk.js"
   ]
 }
