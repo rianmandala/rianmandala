@@ -1,17 +1,19 @@
 {
   "files": {
     "main.css": "/rianmandala/static/css/main.9e8bb24d.chunk.css",
-    "main.js": "/rianmandala/static/js/main.9fd69bf2.chunk.js",
-    "main.js.map": "/rianmandala/static/js/main.9fd69bf2.chunk.js.map",
-    "runtime-main.js": "/rianmandala/static/js/runtime-main.50d9da50.js",
-    "runtime-main.js.map": "/rianmandala/static/js/runtime-main.50d9da50.js.map",
-    "static/js/2.4fe8988a.chunk.js": "/rianmandala/static/js/2.4fe8988a.chunk.js",
-    "static/js/2.4fe8988a.chunk.js.map": "/rianmandala/static/js/2.4fe8988a.chunk.js.map",
-    "static/js/3.bbb454fc.chunk.js": "/rianmandala/static/js/3.bbb454fc.chunk.js",
-    "static/js/3.bbb454fc.chunk.js.map": "/rianmandala/static/js/3.bbb454fc.chunk.js.map",
+    "main.js": "/rianmandala/static/js/main.256cccb6.chunk.js",
+    "main.js.map": "/rianmandala/static/js/main.256cccb6.chunk.js.map",
+    "runtime-main.js": "/rianmandala/static/js/runtime-main.d2ce904d.js",
+    "runtime-main.js.map": "/rianmandala/static/js/runtime-main.d2ce904d.js.map",
+    "static/css/2.7fc9bc2b.chunk.css": "/rianmandala/static/css/2.7fc9bc2b.chunk.css",
+    "static/js/2.83ffc039.chunk.js": "/rianmandala/static/js/2.83ffc039.chunk.js",
+    "static/js/2.83ffc039.chunk.js.map": "/rianmandala/static/js/2.83ffc039.chunk.js.map",
+    "static/js/3.586ffac2.chunk.js": "/rianmandala/static/js/3.586ffac2.chunk.js",
+    "static/js/3.586ffac2.chunk.js.map": "/rianmandala/static/js/3.586ffac2.chunk.js.map",
     "index.html": "/rianmandala/index.html",
+    "static/css/2.7fc9bc2b.chunk.css.map": "/rianmandala/static/css/2.7fc9bc2b.chunk.css.map",
     "static/css/main.9e8bb24d.chunk.css.map": "/rianmandala/static/css/main.9e8bb24d.chunk.css.map",
-    "static/js/2.4fe8988a.chunk.js.LICENSE.txt": "/rianmandala/static/js/2.4fe8988a.chunk.js.LICENSE.txt",
+    "static/js/2.83ffc039.chunk.js.LICENSE.txt": "/rianmandala/static/js/2.83ffc039.chunk.js.LICENSE.txt",
     "static/media/avatar_design.8007f525.svg": "/rianmandala/static/media/avatar_design.8007f525.svg",
     "static/media/bg_header.16d20536.png": "/rianmandala/static/media/bg_header.16d20536.png",
     "static/media/bottom_gap_gray.473240e1.svg": "/rianmandala/static/media/bottom_gap_gray.473240e1.svg",
@@ -23,9 +25,10 @@
     "static/media/sky_chat.26d78c00.png": "/rianmandala/static/media/sky_chat.26d78c00.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.50d9da50.js",
-    "static/js/2.4fe8988a.chunk.js",
+    "static/js/runtime-main.d2ce904d.js",
+    "static/css/2.7fc9bc2b.chunk.css",
+    "static/js/2.83ffc039.chunk.js",
     "static/css/main.9e8bb24d.chunk.css",
-    "static/js/main.9fd69bf2.chunk.js"
+    "static/js/main.256cccb6.chunk.js"
   ]
 }
