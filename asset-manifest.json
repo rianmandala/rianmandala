@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/rianmandala/static/css/main.9e8bb24d.chunk.css",
-    "main.js": "/rianmandala/static/js/main.256cccb6.chunk.js",
-    "main.js.map": "/rianmandala/static/js/main.256cccb6.chunk.js.map",
+    "main.js": "/rianmandala/static/js/main.ad2d3fe9.chunk.js",
+    "main.js.map": "/rianmandala/static/js/main.ad2d3fe9.chunk.js.map",
     "runtime-main.js": "/rianmandala/static/js/runtime-main.d2ce904d.js",
     "runtime-main.js.map": "/rianmandala/static/js/runtime-main.d2ce904d.js.map",
     "static/css/2.7fc9bc2b.chunk.css": "/rianmandala/static/css/2.7fc9bc2b.chunk.css",
@@ -14,6 +14,7 @@
     "static/css/2.7fc9bc2b.chunk.css.map": "/rianmandala/static/css/2.7fc9bc2b.chunk.css.map",
     "static/css/main.9e8bb24d.chunk.css.map": "/rianmandala/static/css/main.9e8bb24d.chunk.css.map",
     "static/js/2.83ffc039.chunk.js.LICENSE.txt": "/rianmandala/static/js/2.83ffc039.chunk.js.LICENSE.txt",
+    "static/media/WeFood.c5186c42.png": "/rianmandala/static/media/WeFood.c5186c42.png",
     "static/media/avatar_design.8007f525.svg": "/rianmandala/static/media/avatar_design.8007f525.svg",
     "static/media/bg_header.16d20536.png": "/rianmandala/static/media/bg_header.16d20536.png",
     "static/media/bottom_gap_gray.473240e1.svg": "/rianmandala/static/media/bottom_gap_gray.473240e1.svg",
@@ -29,6 +30,6 @@
     "static/css/2.7fc9bc2b.chunk.css",
     "static/js/2.83ffc039.chunk.js",
     "static/css/main.9e8bb24d.chunk.css",
-    "static/js/main.256cccb6.chunk.js"
+    "static/js/main.ad2d3fe9.chunk.js"
   ]
 }
