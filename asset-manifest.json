@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/rianmandala/static/css/main.9e8bb24d.chunk.css",
-    "main.js": "/rianmandala/static/js/main.ad2d3fe9.chunk.js",
-    "main.js.map": "/rianmandala/static/js/main.ad2d3fe9.chunk.js.map",
+    "main.js": "/rianmandala/static/js/main.88249ce9.chunk.js",
+    "main.js.map": "/rianmandala/static/js/main.88249ce9.chunk.js.map",
     "runtime-main.js": "/rianmandala/static/js/runtime-main.d2ce904d.js",
     "runtime-main.js.map": "/rianmandala/static/js/runtime-main.d2ce904d.js.map",
     "static/css/2.7fc9bc2b.chunk.css": "/rianmandala/static/css/2.7fc9bc2b.chunk.css",
@@ -23,13 +23,14 @@
     "static/media/la_learn.fe0c9d9d.png": "/rianmandala/static/media/la_learn.fe0c9d9d.png",
     "static/media/pokemon_go.07af0787.png": "/rianmandala/static/media/pokemon_go.07af0787.png",
     "static/media/rian_pp.e5aa0518.jpg": "/rianmandala/static/media/rian_pp.e5aa0518.jpg",
-    "static/media/sky_chat.26d78c00.png": "/rianmandala/static/media/sky_chat.26d78c00.png"
+    "static/media/sky_chat.26d78c00.png": "/rianmandala/static/media/sky_chat.26d78c00.png",
+    "static/media/weMovie.3fb5c2e3.png": "/rianmandala/static/media/weMovie.3fb5c2e3.png"
   },
   "entrypoints": [
     "static/js/runtime-main.d2ce904d.js",
     "static/css/2.7fc9bc2b.chunk.css",
     "static/js/2.83ffc039.chunk.js",
     "static/css/main.9e8bb24d.chunk.css",
-    "static/js/main.ad2d3fe9.chunk.js"
+    "static/js/main.88249ce9.chunk.js"
   ]
 }
